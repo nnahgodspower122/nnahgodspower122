@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @nnahgodspower122
-- 👀 I’m interested in Web development, Database Administration and AI Development.
-- 🌱 I’m currently working as a full-stack developer.
-- 💞️ I’m looking to collaborate with other developers to successfully build Web applications
-- 📫 You can reach out to me on LikedIn, Skype, WhatsApp, Gmeet  etc.
+I’m a full stack web developer with experience developing wide range of projects for small and large companies.
 
-<!---
-nnahgodspower122/nnahgodspower122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Main stack:**
+Ruby on Rails, 
+Python, 
+Django, 
+React.js, 
+Vue.js, 
+Angular, 
+PHP, 
+Bootstrap, 
+HTML, 
+CSS, 
+Redis,
+MySQL, 
+PostgreSQL, 
+AWS, 
+Linux etc.
+
+**Other:**
+Version control system: Git
+OS: Ubuntu Linux, macOS, Windows
+Task managers: Trello, Asana, Pivotal, JIRA etc.
+
+Have any questions?
+Feel free to contact me and we will discuss your project together.
+Have a great day! 😉
